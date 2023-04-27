@@ -1,6 +1,6 @@
 # obsidianVault-Psychology-Suda
 This folder stores the e-prime codes, the class notes and any other source.
-> 💡 All the contents are written by Chinese, and promise you have learnt Chinese.
+> 💡 All the contents are written by Chinese, and promise you have learnt that.
 ### 👋 01 你可能会看到的内容
 1. 部分经典实验范式的e-prime程序(可能会有matlab吧……)；
 2. 数据分析、论文撰写和软件使用等教程；
